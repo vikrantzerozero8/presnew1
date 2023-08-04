@@ -5,7 +5,7 @@ feature_engine
 joblib
 matplotlib
 
-
+streamlit
 numpy
 
 
